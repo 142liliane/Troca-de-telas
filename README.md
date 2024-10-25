@@ -5,7 +5,7 @@
 > O Aplicativo permite que o usuário troque de tela ao clicar num botão.
 
 ## Funcionalidades
-> - [x] exibir duas telas diferentes.
+> - [x] Exibir duas telas diferentes.
 > - [x] Interface simples e intuitiva.
 
 ## Interface simples e intuitiva
