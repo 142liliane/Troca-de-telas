@@ -30,9 +30,9 @@
 > O design é minimalista e fácil de usar, com foco na simplicidade.
 
 ## Telas do Aplicativo 1
-> **Tela Principal**
+> **Tela Principal:**
 > Na tela principal, o usuário pode apertar no botão(o único que tem), que o leva para a tela 2.
-> **Tela 2**
+> **Tela 2:**
 > Na tela 2 o usuário pode apertar no botão(o único que tem), que o leva de volta para a tela principal.
 
 ## Desenvolvedores
